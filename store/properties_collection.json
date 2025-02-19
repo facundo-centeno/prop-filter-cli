@@ -1,0 +1,164 @@
+[
+    {
+      "square_footage": 1200,
+      "lighting": "medium",
+      "price": 250000,
+      "rooms": 3,
+      "bathrooms": 2,
+      "location": {
+        "latitude": -31.427,
+        "longitude": -64.189
+      },
+      "description": "Nice home in Córdoba.",
+      "ammenities": {
+        "garage": true,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": true
+      }
+    },
+    {
+      "square_footage": 1800,
+      "lighting": "high",
+      "price": 350000,
+      "rooms": 4,
+      "bathrooms": 3,
+      "location": {
+        "latitude": -31.007,
+        "longitude": -64.547
+      },
+      "description": "Apartment in Bs As.",
+      "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
+      }
+    },
+    {
+      "square_footage": 900,
+      "lighting": "low",
+      "price": 150000,
+      "rooms": 2,
+      "bathrooms": 1,
+      "location": {
+        "latitude": -31.535,
+        "longitude": -64.378
+      },
+      "description": "Big house in Tucuman.",
+      "ammenities": {
+        "garage": false,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": true
+      }
+    },
+    {
+      "square_footage": 2200,
+      "lighting": "high",
+      "price": 450000,
+      "rooms": 5,
+      "bathrooms": 4,
+      "location": {
+        "latitude": -31.387,
+        "longitude": -64.493
+      },
+      "description": "Great chalet in Bariloche.",
+      "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": false,
+        "ping-pong-table": true
+      }
+    },
+    {
+      "square_footage": 1100,
+      "lighting": "medium",
+      "price": 220000,
+      "rooms": 3,
+      "bathrooms": 2,
+      "location": {
+        "latitude": -31.235,
+        "longitude": -64.464
+      },
+      "description": "Small apartment in Bs As.",
+      "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
+      }
+    },
+    {
+      "square_footage": 1300,
+      "lighting": "medium",
+      "price": 280000,
+      "rooms": 4,
+      "bathrooms": 3,
+      "location": {
+        "latitude": -32.201,
+        "longitude": -64.348
+      },
+      "description": "Rustic home in Totoral.",
+      "ammenities": {
+        "garage": false,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": true
+      }
+    },
+    {
+      "square_footage": 950,
+      "lighting": "low",
+      "price": 180000,
+      "rooms": 2,
+      "bathrooms": 1,
+      "location": {
+        "latitude": -32.047,
+        "longitude": -64.349
+      },
+      "description": "Small house in Tanti.",
+      "ammenities": {
+        "garage": false,
+        "pool": false,
+        "barbecue": false,
+        "ping-pong-table": true
+      }
+    },
+    {
+      "square_footage": 1700,
+      "lighting": "high",
+      "price": 320000,
+      "rooms": 4,
+      "bathrooms": 3,
+      "location": {
+        "latitude": -31.669,
+        "longitude": -64.428
+      },
+      "description": "Spacious house Mendoza.",
+      "ammenities": {
+        "garage": true,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
+      }
+    },
+    {
+      "square_footage": 1250,
+      "lighting": "medium",
+      "price": 260000,
+      "rooms": 3,
+      "bathrooms": 2,
+      "location": {
+        "latitude": -31.579,
+        "longitude": -64.543
+      },
+      "description": "Residence in Rosario.",
+      "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": true
+      }
+    }
+  ]
