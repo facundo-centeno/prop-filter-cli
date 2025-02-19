@@ -142,9 +142,9 @@ func distance(lat1, lng1, lat2, lng2 float64) float64 {
 
 func main() {
 	// for building executable  -->  go build -o prop-filter-cli
-	// if permission denied --> chmod +x prop-filter-cli
 
-	// query -->  ./prop-filter-cli -min_price 100000 -max_price 500000 -min_rooms 2 -max_rooms 5
+	// example query -->  ./prop-filter-cli -min_price 100000 -max_price 500000 -min_rooms 2 -max_rooms 5
+	// if permission denied --> chmod +x prop-filter-cli
 
 	minSquareFootage := flag.Int("min_square_footage", 0, "min-square-footage")
 	maxSquareFootage := flag.Int("max_square_footage", 100000, "max-square-footage")
