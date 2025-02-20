@@ -3,7 +3,7 @@
 This CLI allows filtering properties based on different criteria.
 We offer multiple flags to let you filter properties in various ways.
 
-## Executing the CLI
+## Setting the CLI
 
 First, navigate to `app/` directory before executing the program:
 
@@ -23,7 +23,7 @@ If you don't have permission, execute:
     chmod +x prop-filter-cli
 ```
 
-## Execute
+## Execute query
 
 Still in `app/` run the command with the desired filters
 
