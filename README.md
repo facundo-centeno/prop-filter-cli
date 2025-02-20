@@ -25,7 +25,7 @@ If you don't have permission, execute:
 
 ## Execute
 
-Run the command with desired filters:
+Still in `app/` run the command with the desired filters
 
 Some examples:
 ```sh
