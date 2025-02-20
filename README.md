@@ -5,17 +5,20 @@ We offer multiple flags to let you filter properties in various ways.
 
 ## Executing the CLI
 
-First, navigate to app/ directory before executing the program:
-````
+First, navigate to `app/` directory before executing the program:
+
+```sh
 cd app/
 ```
 
 Then, check if the executable is created. If not, run:
+
 ```sh
     go build -o prop-filter-cli
 ```
 
 If you don't have permission, execute:
+
 ```sh
     chmod +x prop-filter-cli
 ```
@@ -23,6 +26,7 @@ If you don't have permission, execute:
 ## Example
 
 Run the command with desired filters:
+
 ```sh
     ./prop-filter-cli -min_price 100000 -max_price 500000 -min_rooms 2 -max_rooms 5
 ```
