@@ -6,8 +6,8 @@
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-        "latitude": -31.427,
-        "longitude": -64.189
+        "latitude": -31.4201,
+        "longitude": -64.1888
       },
       "description": "Nice home in Córdoba.",
       "ammenities": {
@@ -24,8 +24,8 @@
       "rooms": 4,
       "bathrooms": 3,
       "location": {
-        "latitude": -31.007,
-        "longitude": -64.547
+        "latitude": -34.6037,
+        "longitude": -58.3816
       },
       "description": "Apartment in Bs As.",
       "ammenities": {
@@ -42,8 +42,8 @@
       "rooms": 2,
       "bathrooms": 1,
       "location": {
-        "latitude": -31.535,
-        "longitude": -64.378
+        "latitude": -26.8083,
+        "longitude": -65.2176
       },
       "description": "Big house in Tucuman.",
       "ammenities": {
@@ -60,8 +60,8 @@
       "rooms": 5,
       "bathrooms": 4,
       "location": {
-        "latitude": -31.387,
-        "longitude": -64.493
+        "latitude": -41.1335,
+        "longitude": -71.3103
       },
       "description": "Great chalet in Bariloche.",
       "ammenities": {
@@ -78,8 +78,8 @@
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-        "latitude": -31.235,
-        "longitude": -64.464
+        "latitude": -34.6037,
+        "longitude": -58.3816
       },
       "description": "Small apartment in Bs As.",
       "ammenities": {
@@ -96,8 +96,8 @@
       "rooms": 4,
       "bathrooms": 3,
       "location": {
-        "latitude": -32.201,
-        "longitude": -64.348
+        "latitude": -30.7031,
+        "longitude": -64.0819
       },
       "description": "Rustic home in Totoral.",
       "ammenities": {
@@ -114,8 +114,8 @@
       "rooms": 2,
       "bathrooms": 1,
       "location": {
-        "latitude": -32.047,
-        "longitude": -64.349
+        "latitude": -31.3557,
+        "longitude": -64.4907
       },
       "description": "Small house in Tanti.",
       "ammenities": {
@@ -132,8 +132,8 @@
       "rooms": 4,
       "bathrooms": 3,
       "location": {
-        "latitude": -31.669,
-        "longitude": -64.428
+        "latitude": -32.8895,
+        "longitude": -68.8458
       },
       "description": "Spacious house Mendoza.",
       "ammenities": {
@@ -150,8 +150,8 @@
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-        "latitude": -31.579,
-        "longitude": -64.543
+        "latitude": -32.9468,
+        "longitude": -60.6393
       },
       "description": "Residence in Rosario.",
       "ammenities": {

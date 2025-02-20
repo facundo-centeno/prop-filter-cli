@@ -33,7 +33,7 @@ Run the command with desired filters:
 
 ## Available flags for filtering
 
-| Flag                   | Type    | Default Value       | Description |
+| flag                   | type    | default value       | description |
 |------------------------|---------|---------------------|-------------|
 | `-min_square_footage`  | `int`   | `0`                 | minimum square footage. |
 | `-max_square_footage`  | `int`   | `100000`            | maximum square footage. |
