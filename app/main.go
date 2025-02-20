@@ -156,7 +156,9 @@ func main() {
 	minRooms := flag.Int("min_rooms", 1, "min-rooms")
 	maxBathrooms := flag.Int("max_bathrooms", 100, "max-bathrooms")
 	minBathrooms := flag.Int("min_bathrooms", 1, "min-bathrooms")
-
+	latitude := flag.Float64("latitude", 0.0, "latitude")
+	longitude := flag.Float64("longitude", 0.0, "longitude")
+	maxDistance := flag.Float64("max_distance", 0.0, "max-distance")
 	description := flag.String("description", "", "description")
 	ammenities := flag.String("ammenities", "", "ammenities")
 
@@ -169,6 +171,9 @@ func main() {
 	}
 
 	filters := map[string]interface{}{
+		"latitude":           *latitude,
+		"longitude":          *longitude,
+		"max_distance":       *maxDistance,
 		"min_square_footage": *minSquareFootage,
 		"max_square_footage": *maxSquareFootage,
 		"min_price":          *minPrice,
