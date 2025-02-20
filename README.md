@@ -23,12 +23,17 @@ If you don't have permission, execute:
     chmod +x prop-filter-cli
 ```
 
-## Example
+## Execute
 
 Run the command with desired filters:
 
+Some examples:
 ```sh
-    ./prop-filter-cli -min_price 100000 -max_price 500000 -min_rooms 2 -max_rooms 5
+    ./prop-filter-cli -min_price 300000 -max_price 500000
+    ./prop-filter-cli -min_rooms 4 -lighting_intensity high
+    ./prop-filter-cli -max_distance 50 -min_bathrooms 3
+    ./prop-filter-cli -ammenities pool -max_price 350000
+    ./prop-filter-cli -description loft -max_rooms 3
 ```
 
 ## Available flags for filtering
@@ -46,7 +51,4 @@ Run the command with desired filters:
 | `-max_bathrooms`       | `int`   | `100`               | maximum number of bathrooms. |
 | `-description`         | `string`| `""`                | search by description. |
 | `-ammenities`          | `string`| `""`                | search by ammenities. |
-| `-latitude`            | `float` | `0.0`               | search by latitude. |
-| `-longitude`           | `float` | `0.0`               | search by longitude. |
 | `-max_distance`        | `float` | `0.0`               | search by max distance. |
-

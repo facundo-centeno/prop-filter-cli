@@ -1,164 +1,164 @@
 [
-    {
+  {
       "square_footage": 1200,
       "lighting": "medium",
-      "price": 250000,
+      "price": 481943,
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-        "latitude": -31.4201,
-        "longitude": -64.1888
+          "latitude": 34.0522,
+          "longitude": -118.2437
       },
-      "description": "Nice home in Córdoba.",
+      "description": "bright loft in Buenos Aires",
       "ammenities": {
-        "garage": true,
-        "pool": false,
-        "barbecue": true,
-        "ping-pong-table": true
+          "garage": true,
+          "pool": false,
+          "barbecue": true,
+          "ping-pong-table": true
       }
-    },
-    {
+  },
+  {
       "square_footage": 1800,
       "lighting": "high",
-      "price": 350000,
+      "price": 245127,
       "rooms": 4,
       "bathrooms": 3,
       "location": {
-        "latitude": -34.6037,
-        "longitude": -58.3816
+          "latitude": 34.0522,
+          "longitude": -118.2437
       },
-      "description": "Apartment in Bs As.",
+      "description": "large aptmnt in Los Angeles",
       "ammenities": {
-        "garage": true,
-        "pool": true,
-        "barbecue": true,
-        "ping-pong-table": false
+          "garage": true,
+          "pool": true,
+          "barbecue": true,
+          "ping-pong-table": false
       }
-    },
-    {
+  },
+  {
       "square_footage": 900,
       "lighting": "low",
-      "price": 150000,
+      "price": 391056,
       "rooms": 2,
       "bathrooms": 1,
       "location": {
-        "latitude": -26.8083,
-        "longitude": -65.2176
+          "latitude": 34.0522,
+          "longitude": -118.2437
       },
-      "description": "Big house in Tucuman.",
+      "description": "quiet residence in San Francisco",
       "ammenities": {
-        "garage": false,
-        "pool": false,
-        "barbecue": true,
-        "ping-pong-table": true
+          "garage": false,
+          "pool": false,
+          "barbecue": true,
+          "ping-pong-table": true
       }
-    },
-    {
+  },
+  {
       "square_footage": 2200,
       "lighting": "high",
-      "price": 450000,
+      "price": 304643,
       "rooms": 5,
       "bathrooms": 4,
       "location": {
-        "latitude": -41.1335,
-        "longitude": -71.3103
+          "latitude": 41.8781,
+          "longitude": -87.6298
       },
-      "description": "Great chalet in Bariloche.",
+      "description": "nice house in Chicago",
       "ammenities": {
-        "garage": true,
-        "pool": true,
-        "barbecue": false,
-        "ping-pong-table": true
+          "garage": true,
+          "pool": true,
+          "barbecue": false,
+          "ping-pong-table": true
       }
-    },
-    {
+  },
+  {
       "square_footage": 1100,
       "lighting": "medium",
-      "price": 220000,
+      "price": 336752,
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-        "latitude": -34.6037,
-        "longitude": -58.3816
+          "latitude": 29.7604,
+          "longitude": -95.3698
       },
-      "description": "Small apartment in Bs As.",
+      "description": "small studio in Cordoba",
       "ammenities": {
-        "garage": true,
-        "pool": true,
-        "barbecue": true,
-        "ping-pong-table": false
+          "garage": true,
+          "pool": true,
+          "barbecue": true,
+          "ping-pong-table": false
       }
-    },
-    {
+  },
+  {
       "square_footage": 1300,
       "lighting": "medium",
-      "price": 280000,
+      "price": 368629,
       "rooms": 4,
       "bathrooms": 3,
       "location": {
-        "latitude": -30.7031,
-        "longitude": -64.0819
+          "latitude": 25.7617,
+          "longitude": -80.1918
       },
-      "description": "Rustic home in Totoral.",
+      "description": "quiet loft in Mendoza",
       "ammenities": {
-        "garage": false,
-        "pool": true,
-        "barbecue": true,
-        "ping-pong-table": true
+          "garage": false,
+          "pool": true,
+          "barbecue": true,
+          "ping-pong-table": true
       }
-    },
-    {
+  },
+  {
       "square_footage": 950,
       "lighting": "low",
-      "price": 180000,
+      "price": 337246,
       "rooms": 2,
       "bathrooms": 1,
       "location": {
-        "latitude": -31.3557,
-        "longitude": -64.4907
+          "latitude": 40.7128,
+          "longitude": -74.006
       },
-      "description": "Small house in Tanti.",
+      "description": "huge house in Rosario",
       "ammenities": {
-        "garage": false,
-        "pool": false,
-        "barbecue": false,
-        "ping-pong-table": true
+          "garage": false,
+          "pool": false,
+          "barbecue": false,
+          "ping-pong-table": true
       }
-    },
-    {
+  },
+  {
       "square_footage": 1700,
       "lighting": "high",
-      "price": 320000,
+      "price": 151154,
       "rooms": 4,
       "bathrooms": 3,
       "location": {
-        "latitude": -32.8895,
-        "longitude": -68.8458
+          "latitude": 41.8781,
+          "longitude": -87.6298
       },
-      "description": "Spacious house Mendoza.",
+      "description": "calm house in Boston",
       "ammenities": {
-        "garage": true,
-        "pool": false,
-        "barbecue": true,
-        "ping-pong-table": false
+          "garage": true,
+          "pool": false,
+          "barbecue": true,
+          "ping-pong-table": false
       }
-    },
-    {
+  },
+  {
       "square_footage": 1250,
       "lighting": "medium",
-      "price": 260000,
+      "price": 320303,
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-        "latitude": -32.9468,
-        "longitude": -60.6393
+          "latitude": 25.7617,
+          "longitude": -80.1918
       },
-      "description": "Residence in Rosario.",
+      "description": "small village in Bariloche",
       "ammenities": {
-        "garage": true,
-        "pool": true,
-        "barbecue": true,
-        "ping-pong-table": true
+          "garage": true,
+          "pool": true,
+          "barbecue": true,
+          "ping-pong-table": true
       }
-    }
-  ]
+  }
+]
