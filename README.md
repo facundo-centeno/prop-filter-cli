@@ -5,7 +5,7 @@ We offer multiple flags to let you filter properties in various ways.
 
 ## Setting the CLI
 
-First, navigate to `app/` directory before executing the program:
+First, open your favorite terminal and navigate to the program folder inside `app/` directory before executing the program:
 
 ```sh
 cd app/
@@ -31,9 +31,9 @@ Some examples:
 ```sh
     ./prop-filter-cli -min_price 300000 -max_price 500000
     ./prop-filter-cli -min_rooms 4 -lighting_intensity high
-    ./prop-filter-cli -max_distance 50 -min_bathrooms 3
     ./prop-filter-cli -ammenities pool -max_price 350000
     ./prop-filter-cli -description loft -max_rooms 3
+    ./prop-filter-cli -max_distance 10000 -min_bathrooms 2
 ```
 
 ## Available flags for filtering

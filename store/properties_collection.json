@@ -1,164 +1,452 @@
 [
-  {
-      "square_footage": 1200,
+    {
+      "square_footage": 1250,
       "lighting": "medium",
-      "price": 481943,
+      "price": 320300,
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-          "latitude": 34.0522,
-          "longitude": -118.2437
+        "latitude": 40.7128,
+        "longitude": -74.0060
       },
-      "description": "bright loft in Buenos Aires",
+      "description": "small house in New York",
       "ammenities": {
-          "garage": true,
-          "pool": false,
-          "barbecue": true,
-          "ping-pong-table": true
+        "garage": true,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": true
       }
-  },
-  {
+    },
+    {
       "square_footage": 1800,
       "lighting": "high",
-      "price": 245127,
+      "price": 245100,
       "rooms": 4,
       "bathrooms": 3,
       "location": {
-          "latitude": 34.0522,
-          "longitude": -118.2437
+        "latitude": 34.0522,
+        "longitude": -118.2437
       },
       "description": "large aptmnt in Los Angeles",
       "ammenities": {
-          "garage": true,
-          "pool": true,
-          "barbecue": true,
-          "ping-pong-table": false
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
       }
-  },
-  {
-      "square_footage": 900,
+    },
+    {
+      "square_footage": 950,
       "lighting": "low",
-      "price": 391056,
+      "price": 337200,
       "rooms": 2,
       "bathrooms": 1,
       "location": {
-          "latitude": 34.0522,
-          "longitude": -118.2437
+        "latitude": 41.8781,
+        "longitude": -87.6298
       },
-      "description": "quiet residence in San Francisco",
+      "description": "quiet village in Chicago",
       "ammenities": {
-          "garage": false,
-          "pool": false,
-          "barbecue": true,
-          "ping-pong-table": true
+        "garage": false,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
       }
-  },
-  {
+    },
+    {
       "square_footage": 2200,
       "lighting": "high",
-      "price": 304643,
+      "price": 304600,
       "rooms": 5,
       "bathrooms": 4,
       "location": {
-          "latitude": 41.8781,
-          "longitude": -87.6298
+        "latitude": 29.7604,
+        "longitude": -95.3698
       },
-      "description": "nice house in Chicago",
+      "description": "huge rooftop in Houston",
       "ammenities": {
-          "garage": true,
-          "pool": true,
-          "barbecue": false,
-          "ping-pong-table": true
+        "garage": true,
+        "pool": true,
+        "barbecue": false,
+        "ping-pong-table": true
       }
-  },
-  {
+    },
+    {
       "square_footage": 1100,
       "lighting": "medium",
-      "price": 336752,
+      "price": 336700,
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-          "latitude": 29.7604,
-          "longitude": -95.3698
+        "latitude": -34.6037,
+        "longitude": -58.3816
       },
-      "description": "small studio in Cordoba",
+      "description": "nice studio in Buenos Aires",
       "ammenities": {
-          "garage": true,
-          "pool": true,
-          "barbecue": true,
-          "ping-pong-table": false
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
       }
-  },
-  {
-      "square_footage": 1300,
+    },
+    {
+      "square_footage": 1250,
       "lighting": "medium",
-      "price": 368629,
+      "price": 320300,
+      "rooms": 3,
+      "bathrooms": 2,
+      "location": {
+        "latitude": 40.7128,
+        "longitude": -74.0060
+      },
+      "description": "small house in New York",
+      "ammenities": {
+        "garage": true,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": true
+      }
+    },
+    {
+      "square_footage": 1800,
+      "lighting": "high",
+      "price": 245100,
       "rooms": 4,
       "bathrooms": 3,
       "location": {
-          "latitude": 25.7617,
-          "longitude": -80.1918
+        "latitude": 34.0522,
+        "longitude": -118.2437
       },
-      "description": "quiet loft in Mendoza",
+      "description": "large aptmnt in Los Angeles",
       "ammenities": {
-          "garage": false,
-          "pool": true,
-          "barbecue": true,
-          "ping-pong-table": true
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
       }
-  },
-  {
+    },
+    {
       "square_footage": 950,
       "lighting": "low",
-      "price": 337246,
+      "price": 337200,
       "rooms": 2,
       "bathrooms": 1,
       "location": {
-          "latitude": 40.7128,
-          "longitude": -74.006
+        "latitude": 41.8781,
+        "longitude": -87.6298
       },
-      "description": "huge house in Rosario",
+      "description": "quiet village in Chicago",
       "ammenities": {
-          "garage": false,
-          "pool": false,
-          "barbecue": false,
-          "ping-pong-table": true
+        "garage": false,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
       }
-  },
-  {
-      "square_footage": 1700,
+    },
+    {
+      "square_footage": 2200,
       "lighting": "high",
-      "price": 151154,
-      "rooms": 4,
-      "bathrooms": 3,
+      "price": 304600,
+      "rooms": 5,
+      "bathrooms": 4,
       "location": {
-          "latitude": 41.8781,
-          "longitude": -87.6298
+        "latitude": 29.7604,
+        "longitude": -95.3698
       },
-      "description": "calm house in Boston",
+      "description": "huge rooftop in Houston",
       "ammenities": {
-          "garage": true,
-          "pool": false,
-          "barbecue": true,
-          "ping-pong-table": false
+        "garage": true,
+        "pool": true,
+        "barbecue": false,
+        "ping-pong-table": true
       }
-  },
-  {
-      "square_footage": 1250,
+    },
+    {
+      "square_footage": 1100,
       "lighting": "medium",
-      "price": 320303,
+      "price": 336700,
       "rooms": 3,
       "bathrooms": 2,
       "location": {
-          "latitude": 25.7617,
-          "longitude": -80.1918
+        "latitude": -34.6037,
+        "longitude": -58.3816
       },
-      "description": "small village in Bariloche",
+      "description": "nice studio in Buenos Aires",
       "ammenities": {
-          "garage": true,
-          "pool": true,
-          "barbecue": true,
-          "ping-pong-table": true
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
       }
-  }
+    },
+    {
+        "square_footage": 1600,
+        "lighting": "medium",
+        "price": 385500,
+        "rooms": 4,
+        "bathrooms": 3,
+        "location": {
+        "latitude": -32.8902,
+        "longitude": -68.8474
+        },
+        "description": "small village in Mendoza",
+        "ammenities": {
+        "garage": false,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    },
+    {
+        "square_footage": 1400,
+        "lighting": "low",
+        "price": 274000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": {
+        "latitude": 25.7617,
+        "longitude": -80.1918
+        },
+        "description": "quiet duplex in Miami",
+        "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": true
+        }
+    },
+    {
+        "square_footage": 1950,
+        "lighting": "high",
+        "price": 490000,
+        "rooms": 5,
+        "bathrooms": 3,
+        "location": {
+        "latitude": 41.8781,
+        "longitude": -87.6298
+        },
+        "description": "large house in Chicago",
+        "ammenities": {
+        "garage": true,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    },
+    {
+        "square_footage": 2100,
+        "lighting": "medium",
+        "price": 515700,
+        "rooms": 6,
+        "bathrooms": 4,
+        "location": {
+        "latitude": 39.7392,
+        "longitude": -104.9903
+        },
+        "description": "huge penthouse in Denver",
+        "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": true
+        }
+    },
+    {
+        "square_footage": 1250,
+        "lighting": "low",
+        "price": 315000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": {
+        "latitude": -26.8083,
+        "longitude": -65.2176
+        },
+        "description": "nice loft in Tucumán",
+        "ammenities": {
+        "garage": false,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    },
+    {
+        "square_footage": 1850,
+        "lighting": "medium",
+        "price": 429200,
+        "rooms": 4,
+        "bathrooms": 3,
+        "location": {
+        "latitude": 47.6062,
+        "longitude": -122.3321
+        },
+        "description": "quiet residence in Seattle",
+        "ammenities": {
+        "garage": true,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    },
+    {
+        "square_footage": 2050,
+        "lighting": "high",
+        "price": 502800,
+        "rooms": 5,
+        "bathrooms": 4,
+        "location": {
+        "latitude": 38.9072,
+        "longitude": -77.0369
+        },
+        "description": "large penthouse in Washington D.C.",
+        "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": false,
+        "ping-pong-table": true
+        }
+    },
+    {
+        "square_footage": 1750,
+        "lighting": "low",
+        "price": 358600,
+        "rooms": 4,
+        "bathrooms": 2,
+        "location": {
+        "latitude": 42.3601,
+        "longitude": -71.0589
+        },
+        "description": "nice house in Boston",
+        "ammenities": {
+        "garage": false,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    },
+    {
+        "square_footage": 2400,
+        "lighting": "medium",
+        "price": 575300,
+        "rooms": 6,
+        "bathrooms": 4,
+        "location": {
+        "latitude": 32.7767,
+        "longitude": -96.7970
+        },
+        "description": "huge loft in Dallas",
+        "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": true
+        }
+    },
+    {
+        "square_footage": 950,
+        "lighting": "high",
+        "price": 294000,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": {
+        "latitude": -34.9205,
+        "longitude": -57.9536
+        },
+        "description": "calm studio in La Plata",
+        "ammenities": {
+        "garage": false,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    },
+    {
+        "square_footage": 1300,
+        "lighting": "medium",
+        "price": 315200,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": {
+        "latitude": -38.0055,
+        "longitude": -57.5426
+        },
+        "description": "nice loft in Mar del Plata",
+        "ammenities": {
+        "garage": true,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": true
+        }
+    },
+    {
+        "square_footage": 1700,
+        "lighting": "high",
+        "price": 485000,
+        "rooms": 4,
+        "bathrooms": 3,
+        "location": {
+        "latitude": 36.1627,
+        "longitude": -86.7816
+        },
+        "description": "large penthouse in Nashville",
+        "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    },
+    {
+        "square_footage": 950,
+        "lighting": "low",
+        "price": 278900,
+        "rooms": 2,
+        "bathrooms": 1,
+        "location": {
+        "latitude": 35.2271,
+        "longitude": -80.8431
+        },
+        "description": "small studio in Charlotte",
+        "ammenities": {
+        "garage": false,
+        "pool": false,
+        "barbecue": false,
+        "ping-pong-table": true
+        }
+    },
+    {
+        "square_footage": 2050,
+        "lighting": "medium",
+        "price": 498300,
+        "rooms": 5,
+        "bathrooms": 4,
+        "location": {
+        "latitude": 33.7490,
+        "longitude": -84.3880
+        },
+        "description": "huge house in Atlanta",
+        "ammenities": {
+        "garage": true,
+        "pool": true,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    },
+    {
+        "square_footage": 1250,
+        "lighting": "high",
+        "price": 312000,
+        "rooms": 3,
+        "bathrooms": 2,
+        "location": {
+        "latitude": -24.7829,
+        "longitude": -65.4232
+        },
+        "description": "quiet residence in Salta",
+        "ammenities": {
+        "garage": false,
+        "pool": false,
+        "barbecue": true,
+        "ping-pong-table": false
+        }
+    }
 ]

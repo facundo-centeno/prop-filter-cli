@@ -51,7 +51,10 @@ func TestMaxDistanceFilter(t *testing.T) {
 		"max_distance": 400.0,
 	}
 
-	filtered := filterProperties(properties, filters, 40.748817, -73.985428)
+	userLat := 34.0522
+	userLon := -118.2437
+
+	filtered := filterProperties(properties, filters, userLat, userLon)
 	assert.Equal(t, 1, len(filtered))
 }
 
@@ -116,4 +119,12 @@ func TestAmmenitiesFilter(t *testing.T) {
 
 	filtered := filterProperties(properties, filters, 0, 0)
 	assert.Equal(t, 1, len(filtered))
+}
+
+func TestGetUserLocation(t *testing.T) {
+	lat, lon, err := getUserLocation()
+
+	assert.NoError(t, err)
+	assert.NotNil(t, lat)
+	assert.NotNil(t, lon)
 }

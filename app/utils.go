@@ -46,5 +46,5 @@ func printTable(properties []Property) {
 		})
 	}
 
-	table.Render() // Renderiza la tabla en la terminal
+	table.Render()
 }

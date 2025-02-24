@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"net/http"
 )
@@ -29,6 +28,5 @@ func getUserLocation() (float64, float64, error) {
 		return 0, 0, err
 	}
 
-	fmt.Printf("Ubicación detectada: Latitud %.4f, Longitud %.4f\n", geo.Lat, geo.Lon)
 	return geo.Lat, geo.Lon, nil
 }
