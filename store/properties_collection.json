@@ -10,7 +10,7 @@
         "longitude": -74.0060
       },
       "description": "small house in New York",
-      "ammenities": {
+      "amenities": {
         "garage": true,
         "pool": false,
         "barbecue": true,
@@ -28,7 +28,7 @@
         "longitude": -118.2437
       },
       "description": "large aptmnt in Los Angeles",
-      "ammenities": {
+      "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -46,7 +46,7 @@
         "longitude": -87.6298
       },
       "description": "quiet village in Chicago",
-      "ammenities": {
+      "amenities": {
         "garage": false,
         "pool": false,
         "barbecue": true,
@@ -64,7 +64,7 @@
         "longitude": -95.3698
       },
       "description": "huge rooftop in Houston",
-      "ammenities": {
+      "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": false,
@@ -82,7 +82,7 @@
         "longitude": -58.3816
       },
       "description": "nice studio in Buenos Aires",
-      "ammenities": {
+      "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -100,7 +100,7 @@
         "longitude": -74.0060
       },
       "description": "small house in New York",
-      "ammenities": {
+      "amenities": {
         "garage": true,
         "pool": false,
         "barbecue": true,
@@ -118,7 +118,7 @@
         "longitude": -118.2437
       },
       "description": "large aptmnt in Los Angeles",
-      "ammenities": {
+      "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -136,7 +136,7 @@
         "longitude": -87.6298
       },
       "description": "quiet village in Chicago",
-      "ammenities": {
+      "amenities": {
         "garage": false,
         "pool": false,
         "barbecue": true,
@@ -154,7 +154,7 @@
         "longitude": -95.3698
       },
       "description": "huge rooftop in Houston",
-      "ammenities": {
+      "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": false,
@@ -172,7 +172,7 @@
         "longitude": -58.3816
       },
       "description": "nice studio in Buenos Aires",
-      "ammenities": {
+      "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -190,7 +190,7 @@
         "longitude": -68.8474
         },
         "description": "small village in Mendoza",
-        "ammenities": {
+        "amenities": {
         "garage": false,
         "pool": true,
         "barbecue": true,
@@ -208,7 +208,7 @@
         "longitude": -80.1918
         },
         "description": "quiet duplex in Miami",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -226,7 +226,7 @@
         "longitude": -87.6298
         },
         "description": "large house in Chicago",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": false,
         "barbecue": true,
@@ -244,7 +244,7 @@
         "longitude": -104.9903
         },
         "description": "huge penthouse in Denver",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -262,7 +262,7 @@
         "longitude": -65.2176
         },
         "description": "nice loft in Tucumán",
-        "ammenities": {
+        "amenities": {
         "garage": false,
         "pool": false,
         "barbecue": true,
@@ -280,7 +280,7 @@
         "longitude": -122.3321
         },
         "description": "quiet residence in Seattle",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": false,
         "barbecue": true,
@@ -298,7 +298,7 @@
         "longitude": -77.0369
         },
         "description": "large penthouse in Washington D.C.",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": false,
@@ -316,7 +316,7 @@
         "longitude": -71.0589
         },
         "description": "nice house in Boston",
-        "ammenities": {
+        "amenities": {
         "garage": false,
         "pool": false,
         "barbecue": true,
@@ -334,7 +334,7 @@
         "longitude": -96.7970
         },
         "description": "huge loft in Dallas",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -352,7 +352,7 @@
         "longitude": -57.9536
         },
         "description": "calm studio in La Plata",
-        "ammenities": {
+        "amenities": {
         "garage": false,
         "pool": false,
         "barbecue": true,
@@ -370,7 +370,7 @@
         "longitude": -57.5426
         },
         "description": "nice loft in Mar del Plata",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": false,
         "barbecue": true,
@@ -388,7 +388,7 @@
         "longitude": -86.7816
         },
         "description": "large penthouse in Nashville",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -406,7 +406,7 @@
         "longitude": -80.8431
         },
         "description": "small studio in Charlotte",
-        "ammenities": {
+        "amenities": {
         "garage": false,
         "pool": false,
         "barbecue": false,
@@ -424,7 +424,7 @@
         "longitude": -84.3880
         },
         "description": "huge house in Atlanta",
-        "ammenities": {
+        "amenities": {
         "garage": true,
         "pool": true,
         "barbecue": true,
@@ -442,7 +442,7 @@
         "longitude": -65.4232
         },
         "description": "quiet residence in Salta",
-        "ammenities": {
+        "amenities": {
         "garage": false,
         "pool": false,
         "barbecue": true,

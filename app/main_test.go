@@ -63,7 +63,7 @@ func TestGetProperties(t *testing.T) {
 	data := `[{"square_footage":1200,"lighting":"medium",
 	"price":250000,"rooms":3,"bathrooms":2,
 	"location":{"latitude":-31.427,"longitude":-64.189},
-	"description":"cordoba","ammenities":{"garage":true,"pool":false}}]`
+	"description":"cordoba","amenities":{"garage":true,"pool":false}}]`
 
 	err := os.WriteFile(fileName, []byte(data), 0644)
 	assert.NoError(t, err)
@@ -105,16 +105,16 @@ func TestDescriptionFilter(t *testing.T) {
 	assert.Equal(t, 1, len(filtered))
 }
 
-func TestAmmenitiesFilter(t *testing.T) {
+func TestAmenitiesFilter(t *testing.T) {
 	properties := []Property{
 		{Price: 200000, Rooms: 3, Bathrooms: 2, Lighting: Medium,
-			Ammenities: map[string]bool{"ping-pong": true}},
+			Amenities: map[string]bool{"ping-pong": true}},
 		{Price: 500000, Rooms: 5, Bathrooms: 4, Lighting: High,
-			Ammenities: map[string]bool{"pool": true}},
+			Amenities: map[string]bool{"pool": true}},
 	}
 
 	filters := map[string]interface{}{
-		"ammenities": "ping-pong",
+		"amenities": "ping-pong",
 	}
 
 	filtered := filterProperties(properties, filters, 0, 0)

@@ -30,7 +30,7 @@ type Property struct {
 	Bathrooms     int             `json:"bathrooms"`
 	Location      Location        `json:"location"`
 	Description   string          `json:"description"`
-	Ammenities    map[string]bool `json:"ammenities"`
+	Amenities     map[string]bool `json:"amenities"`
 }
 
 func getProperties(fileName string) ([]Property, error) {

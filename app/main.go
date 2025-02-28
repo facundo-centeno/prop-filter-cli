@@ -15,7 +15,7 @@ func main() {
 	maxBathrooms := flag.Int("max_bathrooms", 100, "Max bathrooms")
 	lighting := flag.String("lighting_intensity", "", "Lighting intensity")
 	description := flag.String("description", "", "Property description")
-	ammenities := flag.String("ammenities", "", "Amenities")
+	amenities := flag.String("amenities", "", "Amenities")
 
 	flag.Parse()
 
@@ -41,7 +41,7 @@ func main() {
 		"max_bathrooms":      *maxBathrooms,
 		"lighting_intensity": LightingLevel(*lighting),
 		"description":        *description,
-		"ammenities":         *ammenities,
+		"amenities":          *amenities,
 	}
 
 	filteredProperties := filterProperties(props, filters, userLat, userLon)
